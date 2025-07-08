@@ -50,12 +50,14 @@ Você pode adicionar, remover, listar moedas e calcular o valor total convertido
 
 ---
 
-## 💛 Autora
+## 💛 Autoria
 
-Desenvolvido por Mell Teixeira 🐝  
+Made by **honey** 🐝  
+Sinta-se à vontade para entrar em contato comigo:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffe100&color:FFF)](https://www.linkedin.com/in/mell-teixeira03/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=ffe100)](https://x.com/honeydev__)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=protonmail&logoColor=ffe100)](mailto:honeydev25@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=ffe100)](https://discord.com/channels/@honeyz___/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=ffe100&color:FFF)](https://honeyz0.github.io/portfolio-CV-Mell/)
+
